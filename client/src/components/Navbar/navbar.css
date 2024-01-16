@@ -1,0 +1,9 @@
+.nav-position {
+    position: fixed;
+}
+
+@media(max-width:1000px) {
+    .nav-position {
+        position: relative;
+    }
+}

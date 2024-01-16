@@ -1,0 +1,14 @@
+.ayush_img{
+    height: 30rem;
+}
+
+@media (max-width:580px){
+    .ayush_img{
+        height: 20rem;
+    }
+}
+@media (max-width:360px){
+    .ayush_img{
+        height: 15rem;
+    }
+}

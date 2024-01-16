@@ -1,0 +1,118 @@
+@keyframes animate {
+    0% {
+        transform: translateY(0) rotate(0deg);
+        opacity: 1;
+        border-radius: 0;
+    }
+
+    100% {
+        transform: translateY(-1000px) rotate(720deg);
+        opacity: 0;
+        border-radius: 50%;
+    }
+}
+
+.homepage-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    background: #4e54c8;
+    overflow: hidden;
+}
+
+.homepage-background li {
+    position: absolute;
+    display: block;
+    list-style: none;
+    width: 20px;
+    height: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    animation: animate 19s linear infinite;
+}
+
+
+
+
+.homepage-background li:nth-child(0) {
+    left: 25%;
+    width: 155px;
+    height: 155px;
+    bottom: -155px;
+    animation-delay: 1s;
+}
+
+.homepage-background li:nth-child(1) {
+    left: 5%;
+    width: 119px;
+    height: 119px;
+    bottom: -119px;
+    animation-delay: 2s;
+}
+
+.homepage-background li:nth-child(2) {
+    left: 8%;
+    width: 189px;
+    height: 189px;
+    bottom: -189px;
+    animation-delay: 8s;
+}
+
+.homepage-background li:nth-child(3) {
+    left: 68%;
+    width: 145px;
+    height: 145px;
+    bottom: -145px;
+    animation-delay: 12s;
+}
+
+.homepage-background li:nth-child(4) {
+    left: 81%;
+    width: 184px;
+    height: 184px;
+    bottom: -184px;
+    animation-delay: 1s;
+}
+
+.homepage-background li:nth-child(5) {
+    left: 9%;
+    width: 113px;
+    height: 113px;
+    bottom: -113px;
+    animation-delay: 23s;
+}
+
+.homepage-background li:nth-child(6) {
+    left: 78%;
+    width: 150px;
+    height: 150px;
+    bottom: -150px;
+    animation-delay: 17s;
+}
+
+.homepage-background li:nth-child(7) {
+    left: 64%;
+    width: 198px;
+    height: 198px;
+    bottom: -198px;
+    animation-delay: 19s;
+}
+
+.homepage-background li:nth-child(8) {
+    left: 19%;
+    width: 150px;
+    height: 150px;
+    bottom: -150px;
+    animation-delay: 4s;
+}
+
+.homepage-background li:nth-child(9) {
+    left: 6%;
+    width: 117px;
+    height: 117px;
+    bottom: -117px;
+    animation-delay: 40s;
+}
