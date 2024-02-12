@@ -42,8 +42,8 @@ const GraphicContainer2 = () => {
             <div className="grid gap-5 mb-8 md:grid-cols-2 lg:grid-cols-3">
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686124935/webdesys/1_l65goj.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585349/WebDesys-Main%20Website/etbv3bx9mbfqiec81zir.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Website Designing</h6>
                     <p className="text-sm text-gray-900 mb-4">
@@ -52,8 +52,8 @@ const GraphicContainer2 = () => {
                 </div>
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686124935/webdesys/2_maw27d.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/lrkdsxa8ixolrba1v1tz.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Logo Designing</h6>
                     <p className="text-sm text-gray-900 mb-4">
@@ -63,8 +63,8 @@ const GraphicContainer2 = () => {
                 </div>
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686124935/webdesys/3_kujysl.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/tydtiu8fww9oah3dtxdp.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Java Development</h6>
                     <p className="text-sm text-gray-900 mb-4">
@@ -74,8 +74,8 @@ const GraphicContainer2 = () => {
                 </div>
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686124935/webdesys/4_tqdr3p.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/lkzrgejyc5ovtk0husds.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">UI & UX Development</h6>
                     <p className="text-sm text-gray-900 mb-4">
@@ -85,8 +85,8 @@ const GraphicContainer2 = () => {
                 </div>
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686124935/webdesys/5_bzcb2b.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/lrkdsxa8ixolrba1v1tz.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Landing Page Designing</h6>
                     <p className="text-sm text-gray-900 mb-4">
@@ -96,8 +96,8 @@ const GraphicContainer2 = () => {
                 </div>
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686124935/webdesys/6_ay6ipc.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/uvzmzvq1snxyquzcnty1.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Ruby on Rails Development</h6>
                     <p className="text-sm text-gray-900 mb-4">

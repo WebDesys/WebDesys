@@ -60,8 +60,8 @@ const HomeSection7 = () => {
                 <div className="mt-16 grid gap-8 row-gap-0 lg:grid-cols-3">
 
                     <div className="relative text-center" data-aos="zoom-in" data-aos-duration="1000" >
-                        <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685429260/webdesys/1_2_lcby05.webp" alt="" />
+                        <div className="flex items-center justify-center overflow-hidden w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707658768/WebDesys-Main%20Website/qhugegcsz4k31lladhmj.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Idea & Analysis</p>
                         <div className="top-0 right-0 flex items-center justify-center h-24 lg:-mr-8 lg:absolute">
@@ -91,8 +91,8 @@ const HomeSection7 = () => {
                     </div>
 
                     <div className="relative text-center" data-aos="zoom-in" data-aos-duration="1000" >
-                        <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685429260/webdesys/2_3_aadipr.webp" alt="" />
+                        <div className="flex items-center justify-center overflow-hidden w-10 h-10 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707658768/WebDesys-Main%20Website/zsxs1nbhuwedczozbmz7.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Designing</p>
                         <div className="top-0 right-0 flex items-center justify-center h-24 lg:-mr-8 lg:absolute">
@@ -122,8 +122,8 @@ const HomeSection7 = () => {
                     </div>
 
                     <div className="relative text-center" data-aos="zoom-in" data-aos-duration="1000" >
-                        <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685429260/webdesys/3_3_ubezrh.webp" alt="" />
+                        <div className="flex items-center justify-center overflow-hidden w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707658768/WebDesys-Main%20Website/d8d4sgl39skgsvqn4szw.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Development</p>
                     </div>
@@ -133,8 +133,8 @@ const HomeSection7 = () => {
                 <div className="mt-16 grid gap-8 row-gap-0 lg:grid-cols-3">
 
                     <div className="relative text-center" data-aos="zoom-in" data-aos-duration="1000" >
-                        <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685429260/webdesys/4_2_ubrwrg.webp" alt="" />
+                        <div className="flex items-center justify-center overflow-hidden w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707658768/WebDesys-Main%20Website/d68j82q7lfxc2tfx4ho6.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Testing & Launching</p>
                         <div className="top-0 right-0 flex items-center justify-center h-24 lg:-mr-8 lg:absolute">
@@ -164,8 +164,8 @@ const HomeSection7 = () => {
                     </div>
 
                     <div className="relative text-center" data-aos="zoom-in" data-aos-duration="1000" >
-                        <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685429260/webdesys/5_1_thqrk7.webp" alt="" />
+                        <div className="flex items-center justify-center overflow-hidden w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707658768/WebDesys-Main%20Website/bdzwih7m3pmy37lbdi2l.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Show Statistics & Hand-over</p>
                         <div className="top-0 right-0 flex items-center justify-center h-24 lg:-mr-8 lg:absolute">
@@ -195,8 +195,8 @@ const HomeSection7 = () => {
                     </div>
 
                     <div className="relative text-center" data-aos="zoom-in" data-aos-duration="1000" >
-                        <div className="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685429260/webdesys/6_1_sktjud.webp" alt="" />
+                        <div className="flex items-center justify-center overflow-hidden w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-20 sm:h-20">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707658768/WebDesys-Main%20Website/vck92xnr4zvzaeme2pwh.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Customer Support</p>
                     </div>

@@ -16,25 +16,25 @@ const OurTeam = () => {
 
     const arr = [
         {
-            img: 'https://res.cloudinary.com/ddffeufbq/image/upload/v1697024874/webdesys/2_zbxvyi.webp',
+            img: 'https://res.cloudinary.com/dztkzhtla/image/upload/v1707587097/WebDesys-Main%20Website/mfhbaegcfjh3kk7zalbv.webp',
             name: 'Ayush Srivastava',
             role: 'Founder & Chairperson',
             url: 'https://www.linkedin.com/in/ayush10012/'
         },
+        // {
+        //     img: 'https://res.cloudinary.com/ddffeufbq/image/upload/v1697024874/webdesys/4_hbwvuc.webp',
+        //     name: 'Utpal Rai',
+        //     role: 'Chief Executive Officer',
+        //     url: 'https://www.linkedin.com/in/utpal-rai-326831233/'
+        // },
+        // {
+        //     img: 'https://res.cloudinary.com/ddffeufbq/image/upload/v1697024874/webdesys/1_ztdpev.webp',
+        //     name: 'Arvind Kumar Srivastava',
+        //     role: 'Chief Finance Officer',
+        //     url: 'https://www.linkedin.com/in/ayush10012/'
+        // },
         {
-            img: 'https://res.cloudinary.com/ddffeufbq/image/upload/v1697024874/webdesys/4_hbwvuc.webp',
-            name: 'Utpal Rai',
-            role: 'Chief Executive Officer',
-            url: 'https://www.linkedin.com/in/utpal-rai-326831233/'
-        },
-        {
-            img: 'https://res.cloudinary.com/ddffeufbq/image/upload/v1697024874/webdesys/1_ztdpev.webp',
-            name: 'Arvind Kumar Srivastava',
-            role: 'Chief Finance Officer',
-            url: 'https://www.linkedin.com/in/ayush10012/'
-        },
-        {
-            img: 'https://res.cloudinary.com/ddffeufbq/image/upload/v1697024874/webdesys/3_mnleey.webp',
+            img: 'https://res.cloudinary.com/dztkzhtla/image/upload/v1707717673/WebDesys-Main%20Website/bq28ett943gtotidovog.webp',
             name: 'Pragya Srivastava',
             role: "Co-founder & Chief People's Officer",
             url: 'https://www.linkedin.com/in/pragya-srivastava-53b596132/'
@@ -62,7 +62,7 @@ const OurTeam = () => {
                     <div className="mb-6  lg:mb-0 lg:w-1/2 lg:pr-5" data-aos="fade-right" data-aos-duration="2000">
 
                         <div className="flex items-center justify-center w-12 h-12 mb-3 rounded-full bg-white lg:w-20 lg:h-20">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685433704/webdesys/star-icon_yurvwj.png" alt="" />
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707678417/WebDesys-Main%20Website/zkbmbi55gbfobgmzexuj.webp" alt="" />
                         </div>
                         <h2 className="text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 max-w-lg mb-4 font-sans text-xl font-bold tracking-tight sm:text-2xl sm:leading-none" >
                             <Typewriter
@@ -93,7 +93,7 @@ const OurTeam = () => {
                         </Link>
                     </div>
                     <div className="lg:w-1/2 flex items-center justify-center" data-aos="fade-left" data-aos-duration="2000">
-                        <img className="object-cover h-40 md:h-full" src="https://res.cloudinary.com/ddffeufbq/image/upload/v1696767140/webdesys/Untitled_design_o2tmbh.gif" alt="" />
+                        <img className="object-cover h-40 md:h-full" src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707714076/WebDesys-Main%20Website/etwwgcfcrsgqzo1jshna.webp" alt="" />
                     </div>
                 </div>
             </div>

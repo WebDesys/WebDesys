@@ -42,8 +42,8 @@ const ImageContainer = () => {
             <div className="grid gap-5 mb-8 md:grid-cols-2 lg:grid-cols-3">
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686081936/webdesys/6_mp7ln3.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/tydtiu8fww9oah3dtxdp.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Android App Development</h6>
                     <p className="text-sm text-gray-900 mb-4">
@@ -52,8 +52,8 @@ const ImageContainer = () => {
                 </div>
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686081936/webdesys/5_assuc9.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/tydtiu8fww9oah3dtxdp.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">IOS App Development</h6>
                     <p className="text-sm text-gray-900 mb-4">
@@ -64,8 +64,8 @@ const ImageContainer = () => {
                 </div>
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686081936/webdesys/2_fntb50.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/tydtiu8fww9oah3dtxdp.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Flutter App Development</h6>
                     <p className="text-sm text-gray-900 mb-4">
@@ -75,8 +75,8 @@ const ImageContainer = () => {
                 </div>
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686081936/webdesys/1_vtyyed.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/tydtiu8fww9oah3dtxdp.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">React Native App Development</h6>
                     <p className="text-sm text-gray-900 mb-4">
@@ -86,8 +86,8 @@ const ImageContainer = () => {
                 </div>
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686081936/webdesys/3_eyr4f8.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/tydtiu8fww9oah3dtxdp.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Custom Application Development</h6>
                     <p className="text-sm text-gray-900 mb-4">
@@ -97,8 +97,8 @@ const ImageContainer = () => {
                 </div>
 
                 <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 border rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 hover:border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                    <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686081936/webdesys/4_irukas.png" alt="" />
+                    <div className="flex items-center justify-center overflow-hidden w-12 h-12 mb-4 rounded-full bg-indigo-50">
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/tydtiu8fww9oah3dtxdp.webp" alt="" />
                     </div>
                     <h6 className="mb-2 font-semibold leading-5">Hybrid Mobile Application</h6>
                     <p className="text-sm text-gray-900 mb-4">

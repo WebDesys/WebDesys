@@ -22,7 +22,7 @@ const Footer = () => {
                             title="Company"
                             className="inline-flex items-center"
                         >
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685439572/webdesys/webdesys_logo_v4bxps.webp" alt="logo" className="md:cursor-pointer h-24" />
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707667249/WebDesys-Main%20Website/r1ptizawh7deebcdotey.webp" alt="logo" className="md:cursor-pointer h-24" />
                         </a>
                         <div className="mt-4 lg:max-w-sm">
                             <p className="text-sm text-gray-900 font-semibold font-sans" data-aos="zoom-in" data-aos-duration="1000">

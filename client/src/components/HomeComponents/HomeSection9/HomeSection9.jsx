@@ -49,7 +49,7 @@ const HomeSection9 = () => {
 
               <div className="max-w-md sm:mx-auto sm:text-center border rounded shadow-sm px-2 py-4 hover:border-blue-700 hover:border-2 flex flex-col items-center bg-gradient-to-r from-sky-100 to-slate-50 "  data-aos="zoom-in" data-aos-duration="1000" >
                   <div className="flex items-center justify-center w-18 h-18 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685436271/webdesys/1_kke04b.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566752/WebDesys-Main%20Website/Reliability.png" alt="" />
                   </div>
                   <h6 className="mb-3 text-xl font-bold leading-5">Reliability</h6>
                   <p className="mb-3 text-sm text-gray-900">
@@ -59,7 +59,7 @@ const HomeSection9 = () => {
 
               <div className="max-w-md sm:mx-auto sm:text-center border rounded shadow-sm px-2 py-4 hover:border-blue-700 hover:border-2 flex flex-col items-center bg-gradient-to-r from-slate-50 to-sky-100"  data-aos="zoom-in" data-aos-duration="1000" >
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685436271/webdesys/2_d0gsrd.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707660764/WebDesys-Main%20Website/c1asx2o1c7dgnse0zgmb.png" alt="" />
                   </div>
                   <h6 className="mb-3 text-xl font-bold leading-5">Driven results</h6>
                   <p className="mb-3 text-sm text-gray-900">
@@ -69,7 +69,7 @@ const HomeSection9 = () => {
 
               <div className="max-w-md sm:mx-auto sm:text-center border rounded shadow-sm px-2 py-4 hover:border-blue-700 hover:border-2 flex flex-col items-center bg-gradient-to-r from-sky-100 to-slate-50 "  data-aos="zoom-in" data-aos-duration="1000" >
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685436272/webdesys/3_dqlpxa.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707660183/WebDesys-Main%20Website/hfo1wz4js4rx0pcozhle.webp" alt="" />
                   </div>
                   <h6 className="mb-3 text-xl font-bold leading-5">Quality Assurance</h6>
                   <p className="mb-3 text-sm text-gray-900">
@@ -79,7 +79,7 @@ const HomeSection9 = () => {
 
               <div className="max-w-md sm:mx-auto sm:text-center border rounded shadow-sm px-2 py-4 hover:border-blue-700 hover:border-2 flex flex-col items-center bg-gradient-to-r from-slate-50 to-sky-100"  data-aos="zoom-in" data-aos-duration="1000" >
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685436272/webdesys/4_gwppzl.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707660183/WebDesys-Main%20Website/q4q4qiwcq4knhb2l8vk5.webp" alt="" />
                   </div>
                   <h6 className="mb-3 text-xl font-bold leading-5">High level of Expertise</h6>
                   <p className="mb-3 text-sm text-gray-900">
@@ -89,7 +89,7 @@ const HomeSection9 = () => {
 
               <div className="max-w-md sm:mx-auto sm:text-center border rounded shadow-sm px-2 py-4 hover:border-blue-700 hover:border-2 flex flex-col items-center bg-gradient-to-r from-sky-100 to-slate-50 "  data-aos="zoom-in" data-aos-duration="1000" >
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685436271/webdesys/5_ppzqjp.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566752/WebDesys-Main%20Website/Real_time_support.png" alt="" />
                   </div>
                   <h6 className="mb-3 text-xl font-bold leading-5">Real Time Support</h6>
                   <p className="mb-3 text-sm text-gray-900">
@@ -99,7 +99,7 @@ const HomeSection9 = () => {
 
               <div className="max-w-md sm:mx-auto sm:text-center border rounded shadow-sm px-2 py-4 hover:border-blue-700 hover:border-2 flex flex-col items-center bg-gradient-to-r from-slate-50 to-sky-100"  data-aos="zoom-in" data-aos-duration="1000" >
                   <div  className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685436271/webdesys/6_q5kkaz.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707568728/WebDesys-Main%20Website/Cost_effec.png" alt="" />
                   </div>
                   <h6 className="mb-3 text-xl font-bold leading-5">Cost Effectiveness</h6>
                   <p className="mb-3 text-sm text-gray-900">
@@ -109,7 +109,7 @@ const HomeSection9 = () => {
 
               <div className="max-w-md sm:mx-auto sm:text-center border rounded shadow-sm px-2 py-4 hover:border-blue-700 hover:border-2 flex flex-col items-center bg-gradient-to-r from-sky-100 to-slate-50 "  data-aos="zoom-in" data-aos-duration="1000" >
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685436271/webdesys/7_uvojjw.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566752/WebDesys-Main%20Website/Cust_rel.png" alt="" />
                   </div>
                   <h6 className="mb-3 text-xl font-bold leading-5">Relationship with customer</h6>
                   <p className="mb-3 text-sm text-gray-900">
@@ -119,7 +119,7 @@ const HomeSection9 = () => {
 
               <div className="max-w-md sm:mx-auto sm:text-center border rounded shadow-sm px-2 py-4 hover:border-blue-700 hover:border-2 flex flex-col items-center bg-gradient-to-r from-slate-50 to-sky-100"  data-aos="zoom-in" data-aos-duration="1000" >
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685436271/webdesys/8_zpqtnn.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566752/WebDesys-Main%20Website/On_time_delivery.png" alt="" />
                   </div>
                   <h6 className="mb-3 text-xl font-bold leading-5">Delivery on time</h6>
                   <p className="mb-3 text-sm text-gray-900">

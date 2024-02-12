@@ -48,13 +48,13 @@ const HomeSection3 = () => {
                         <div className="flex flex-col items-end px-3">
                             <img
                                 className="object-cover mb-6 rounded shadow-lg h-28 sm:h-48 xl:h-56 w-28 sm:w-48 xl:w-56"
-                                src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685439815/webdesys/pexels-photo-3184287_kgnotb.webp"
+                                src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707652027/WebDesys-Main%20Website/b8batovlxbqioxdg7j20.webp"
                                 alt=""
                                 data-aos="zoom-in" data-aos-duration="1000"
                             />
                             <img
                                 className="object-cover w-20 h-20 rounded shadow-lg sm:h-32 xl:h-40 sm:w-32 xl:w-40"
-                                src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685439815/webdesys/pexels-photo-3182812_jgswkm.webp"
+                                src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707652027/WebDesys-Main%20Website/wqjpueqm265nu1ykgxmy.webp"
                                 alt=""
                                 data-aos="zoom-in" data-aos-duration="1000"
                             />
@@ -62,7 +62,7 @@ const HomeSection3 = () => {
                         <div className="px-3">
                             <img
                                 className="object-cover w-40 h-40 rounded shadow-lg sm:h-64 xl:h-80 sm:w-64 xl:w-80"
-                                src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685439815/webdesys/pexels-photo-3182739_rcepsf.webp"
+                                src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707652027/WebDesys-Main%20Website/z0tgevalj7dz7nfivcxb.webp"
                                 alt=""
                                 data-aos="zoom-in" data-aos-duration="1000"
                             />

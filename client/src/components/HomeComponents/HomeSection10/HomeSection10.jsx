@@ -10,13 +10,13 @@ const HomeSection10 = () => {
                   <div className="flex flex-col items-end px-3">
                       <img
                           className="object-cover mb-6  h-28 sm:h-48 xl:h-56 w-28 sm:w-48 xl:w-56"
-                          src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685438568/webdesys/Untitled_222_224px_wukot6.png"
+                          src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707661136/WebDesys-Main%20Website/sjqfoyuqyz0qfc1yy27y.webp"
                           alt=""
                           data-aos="zoom-in" data-aos-duration="1000"
                       />
                       <img
                           className="object-cover w-20 h-20  sm:h-32 xl:h-40 sm:w-32 xl:w-40"
-                          src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685438751/webdesys/Untitled_160_160px_hgmvnr.png"
+                          src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707661136/WebDesys-Main%20Website/fwvvtypaylvvfkclax7q.webp"
                           alt=""
                           data-aos="zoom-in" data-aos-duration="1000"
                       />
@@ -24,7 +24,7 @@ const HomeSection10 = () => {
                   <div className="px-3">
                       <img
                           className="object-cover w-40 h-40 sm:h-64 xl:h-80 sm:w-64 xl:w-80"
-                          src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685438387/webdesys/Untitled_318_320px_kxzct1.png"
+                          src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707661136/WebDesys-Main%20Website/pc4lsop3fjal4trsd6hb.webp"
                           alt=""
                           data-aos="zoom-in" data-aos-duration="1000"
                       />
@@ -35,7 +35,7 @@ const HomeSection10 = () => {
               <div className="flex flex-col justify-center md:pr-8 xl:pr-0 lg:max-w-lg">
 
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-teal-accent-400" data-aos="zoom-in" data-aos-duration="1000">
-                      <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686174903/webdesys/hye_517_320px_2_k1wmtv.png" alt="" />
+                      <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707678417/WebDesys-Main%20Website/zkbmbi55gbfobgmzexuj.webp" alt="" />
                   </div>
 
                   <div className="max-w-xl mb-6" data-aos="zoom-in" data-aos-duration="1000">

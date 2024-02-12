@@ -58,7 +58,7 @@ const HomeSection5 = () => {
                 
                     <div className="text-center p-2 border rounded shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(45,78,255,0.15)] hover:-translate-y-6 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685362174/webdesys/Untitled_design_14_fxellg.png" alt="" />
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707655839/WebDesys-Main%20Website/r59zivfaqyyutgvkqwg8.webp" alt="" className='max-w-[35px]'/>
                         </div>
                         <ScrollTrigger onEnter={() => setCounterOn1(true)} onExit={() => setCounterOn1(false)}>
                             <h6 className="text-3xl font-bold text-deep-purple-accent-400">
@@ -70,7 +70,7 @@ const HomeSection5 = () => {
 
                     <div className="text-center p-2 border rounded shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(45,78,255,0.15)] hover:-translate-y-6 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685362332/webdesys/Untitled_design_15_fb430r.png" alt="" />
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707654792/WebDesys-Main%20Website/nrebamxchh9zf1vcs2xz.webp" alt="" />
                         </div>
                         <ScrollTrigger onEnter={() => setCounterOn2(true)} onExit={() => setCounterOn2(false)}>
                             <h6 className="text-3xl font-bold text-deep-purple-accent-400">
@@ -82,7 +82,7 @@ const HomeSection5 = () => {
 
                     <div className="text-center p-2 border rounded shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(45,78,255,0.15)] hover:-translate-y-6 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000" >
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685362541/webdesys/Untitled_design_16_tq6iie.png" alt="" />
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707654792/WebDesys-Main%20Website/ikaydermgntzwyhcji4o.webp" alt="" />
                         </div>
                         <ScrollTrigger onEnter={() => setCounterOn3(true)} onExit={() => setCounterOn3(false)}>
                             <h6 className="text-3xl font-bold text-deep-purple-accent-400">
@@ -93,8 +93,8 @@ const HomeSection5 = () => {
                     </div>
 
                     <div className="text-center p-2 border rounded shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(45,78,255,0.15)] hover:-translate-y-6 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000" >
-                        <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685362674/webdesys/Untitled_design_17_zoeykx.png" alt="" />
+                        <div className="flex items-center justify-center w-15 h-15 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707655481/WebDesys-Main%20Website/t9moonbs9btzj9c6ayus.webp" alt="" className='max-w-[60px]'/>
                         </div>
                         <ScrollTrigger onEnter={() => setCounterOn4(true)} onExit={() => setCounterOn4(false)}>
                             <h6 className="text-3xl font-bold text-deep-purple-accent-400">

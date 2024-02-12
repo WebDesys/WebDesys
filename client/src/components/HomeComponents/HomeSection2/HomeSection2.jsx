@@ -45,8 +45,8 @@ const HomeSection2 = () => {
                 <div className="grid gap-5 mb-8 md:grid-cols-2 lg:grid-cols-3">
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100  rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685348497/webdesys/1_qx7lme.webp" alt="" />
+                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50 overflow-hidden">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/lkzrgejyc5ovtk0husds.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5">Web Designing</h6>
                         <p className="text-sm text-gray-900 mb-4">
@@ -58,8 +58,8 @@ const HomeSection2 = () => {
                     </div>
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100  rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685348497/webdesys/2_2_sdraxg.webp" alt="" />
+                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50 overflow-hidden">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/tydtiu8fww9oah3dtxdp.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5">Web Development</h6>
                         <p className="text-sm text-gray-900 mb-4">
@@ -71,8 +71,8 @@ const HomeSection2 = () => {
                     </div>
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100  rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685348497/webdesys/7_kvku5t.webp" alt="" />
+                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50 overflow-hidden">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585417/WebDesys-Main%20Website/icnw8dgnixkrmrplk59a.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5">Digital Marketing</h6>
                         <p className="text-sm text-gray-900 mb-4">
@@ -84,8 +84,8 @@ const HomeSection2 = () => {
                     </div>
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100 rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685353918/webdesys/3_2_fyagg8.webp" alt="" />
+                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50 overflow-hidden">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/uvzmzvq1snxyquzcnty1.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5">Wordpress Development</h6>
                         <p className="text-sm text-gray-900 mb-4">
@@ -97,8 +97,8 @@ const HomeSection2 = () => {
                     </div>
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100  rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685354005/webdesys/8_ivyoab.webp" alt="" />
+                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50 overflow-hidden">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/anhbyriack5h7h68blq8.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5">SEO Services</h6>
                         <p className="text-sm text-gray-900 mb-4">
@@ -110,8 +110,8 @@ const HomeSection2 = () => {
                     </div>
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-cyan-50 to-indigo-100  rounded shadow-sm hover:-translate-y-6 hover:border-blue-700 border-2 hover:bg-white" data-aos="flip-left" data-aos-duration="1600">
-                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685354181/webdesys/6_ukd9h7.webp" alt="" />
+                        <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-indigo-50 overflow-hidden">
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707585418/WebDesys-Main%20Website/lrkdsxa8ixolrba1v1tz.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5">Logo Designing</h6>
                         <p className="text-sm text-gray-900 mb-4">

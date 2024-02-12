@@ -140,7 +140,7 @@ const webdContainer1 = () => {
               <div data-aos="zoom-in" data-aos-duration="1000">
                   <img
                       className="object-cover w-full h-56 rounded  sm:h-96"
-                      src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686127754/webdesys/hye_517_320px_1_t9vg8f.png"
+                      src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707716028/WebDesys-Main%20Website/ia9k1qya28kscwi8lbgi.webp"
                       alt=""
                   />
               </div>

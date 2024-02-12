@@ -10,7 +10,7 @@ const Header = () => {
                     <div className="flex flex-col mb-4 sm:text-center sm:mb-0 md:mb-6">
                         <div className="mb-2 sm:mx-auto" data-aos="zoom-in" data-aos-duration="2000">
                             <div className="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-white">
-                                <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686076757/webdesys/Untitled_design_26_ipqo9i.png" alt="" />
+                                <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707731196/WebDesys-Main%20Website/up7i2jddbeviumhcdye2.jpg" alt="" className='max-w-[90px]'/>
                             </div>
                         </div>
                         <div className="max-w-xl mb-6 md:mx-auto sm:text-center flex justify-center items-center flex-col lg:max-w-2xl md:mb-6" data-aos="zoom-in" data-aos-duration="2000">

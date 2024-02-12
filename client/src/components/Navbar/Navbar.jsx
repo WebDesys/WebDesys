@@ -26,7 +26,7 @@ const Navbar = () => {
     <nav className={`${navbar ? "bg-white" : "bg-transparent"} nav-position w-full z-10 transition-all ease-in-out duration-1000`}>
       <div className="flex items-center font-medium justify-around">
         <div className="z-50 p-5 md:w-auto w-full flex justify-between">
-          <Link to='/'><img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685439572/webdesys/webdesys_logo_v4bxps.webp" alt="logo" className="md:cursor-pointer h-16" /></Link>
+          <Link to='/'><img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707667249/WebDesys-Main%20Website/r1ptizawh7deebcdotey.webp" alt="logo" className="md:cursor-pointer h-16" /></Link>
           <div className="text-3xl md:hidden" onClick={() => setOpen(!open)}>
             <ion-icon name={`${open ? "close" : "menu"}`}></ion-icon>
           </div>

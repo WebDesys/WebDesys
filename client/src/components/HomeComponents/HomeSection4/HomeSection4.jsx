@@ -53,21 +53,21 @@ const HomeSection4 = () => {
 
               <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100  border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685359650/webdesys/Untitled_design_6_foup81.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707653970/WebDesys-Main%20Website/wq5ffglervfo8oicb93w.webp" alt="" />
                   </div>
                   <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Global Experience</h6>
               </div>
 
               <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100 border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685360236/webdesys/Untitled_design_9_bvgrb7.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707653087/WebDesys-Main%20Website/gpezdcjmsn0hst4bed1w.webp" alt="" />
                   </div>
                   <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Value for Price</h6>
               </div>
 
               <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100 border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
-                  <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685360333/webdesys/Untitled_design_10_k1lhwu.png" alt="" />
+                  <div className="flex items-center overflow-hidden justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707675715/WebDesys-Main%20Website/m9avtuggfrneikuggyy0.webp" alt="" />
                   </div>
                   <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">User Perspective</h6>
               </div>
@@ -77,21 +77,21 @@ const HomeSection4 = () => {
 
               <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100 border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685360441/webdesys/Untitled_design_11_rvhful.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707653819/WebDesys-Main%20Website/egzqyfeagmuawllhzyss.webp" alt="" />
                   </div>
                   <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Business Perspective</h6>
               </div>
 
               <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100  border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685360566/webdesys/Untitled_design_12_xfkiym.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566486/WebDesys-Main%20Website/Expert_perspective.webp" alt="" />
                   </div>
                   <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Expert Perspective</h6>
               </div>
 
               <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100 border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
                   <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                      <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685360653/webdesys/Untitled_design_13_iqvh0u.png" alt="" />
+                      <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707653622/WebDesys-Main%20Website/imn5tujzarg7bqkn2wgc.webp" alt="" />
                   </div>
                   <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Marketplace Solutions</h6>
               </div>

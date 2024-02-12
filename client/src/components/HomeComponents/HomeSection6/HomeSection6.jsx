@@ -54,28 +54,28 @@ const HomeSection6 = () => {
 
                     <div className="text-center border-2 rounded shadow-sm py-4 bg-gradient-to-r from-slate-50 to-sky-100 hover:border-2 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000" >
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1697004669/webdesys/1_daenrr.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707656789/WebDesys-Main%20Website/zvng5avvzy6wnnjnumnc.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">MongoDB</p>
                     </div>
 
                     <div className="text-center border-2 rounded shadow-sm py-4 bg-gradient-to-r from-sky-100 to-slate-50 hover:border-2 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000" >
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1697004669/webdesys/2_o1nqzv.png" alt="" className='rounded-md' />
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707658541/WebDesys-Main%20Website/ndowxljuk0k4aepukq05.webp" alt="" className='rounded-md' />
                         </div>
                         <p className="mb-2 font-bold text-md">Express</p>
                     </div>
 
                     <div className="text-center rounded shadow-sm py-4  bg-gradient-to-r from-sky-100 to-slate-50 border-2 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685363743/webdesys/Untitled_design_18_dppftn.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566753/WebDesys-Main%20Website/React.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">React</p>
                     </div>
 
                     <div className="text-center border-2 rounded shadow-sm py-4 bg-gradient-to-r from-sky-100 to-slate-50 hover:border-2 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685364146/webdesys/ss_1_zzjpg4.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707658369/WebDesys-Main%20Website/uqhxrl7uufoofyprtmge.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Node JS</p>
                     </div>
@@ -85,28 +85,28 @@ const HomeSection6 = () => {
                 <div className="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
                     <div className="text-center border-2 rounded shadow-sm py-4 bg-gradient-to-r from-slate-50 to-sky-100 hover:border-2 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685363838/webdesys/Untitled_design_19_csu9ga.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566750/WebDesys-Main%20Website/Kotlin.png" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Kotlin</p>
                     </div>
 
                     <div className="text-center border-2 rounded shadow-sm py-4 hover:border-2  bg-gradient-to-r from-slate-50 to-sky-100 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685364336/webdesys/ss_2_owkwzf.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566752/WebDesys-Main%20Website/Python.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Python</p>
                     </div>
 
                     <div className="text-center border-2 rounded shadow-sm py-4 bg-gradient-to-r from-sky-100 to-slate-50 hover:border-2 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000" >
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685364405/webdesys/ss_3_hvvozz.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707657951/WebDesys-Main%20Website/xwhoysycc5zdwj6qmnke.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Swift</p>
                     </div>
 
                     <div className="text-center border-2 rounded shadow-sm py-4  bg-gradient-to-r from-slate-50 to-sky-100 hover:border-2 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000" >
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685364491/webdesys/ss_4_fjhjga.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566750/WebDesys-Main%20Website/Javascript.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Javascript</p>
                     </div>
@@ -115,28 +115,28 @@ const HomeSection6 = () => {
                 <div className="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
                     <div className="text-center border-2 rounded shadow-sm py-4 bg-gradient-to-r from-sky-100 to-slate-50 hover:border-2 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686116417/webdesys/1_wu4aij.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707657139/WebDesys-Main%20Website/uufnciszp4u2usey3bco.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">WordPress</p>
                     </div>
 
                     <div className="text-center border-2 rounded shadow-sm py-4 hover:border-2  bg-gradient-to-r from-slate-50 to-sky-100 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686116416/webdesys/3_ifmmer.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707656788/WebDesys-Main%20Website/eoov5rpimu5qtqbuhjah.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">PHP</p>
                     </div>
 
                     <div className="text-center border-2 rounded shadow-sm py-4 bg-gradient-to-r from-sky-100 to-slate-50 hover:border-2 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000" >
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686116416/webdesys/4_e9ygbq.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707657443/WebDesys-Main%20Website/aflpjdxkmmrwj9e2v5g7.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Django</p>
                     </div>
 
                     <div className="text-center border-2 rounded shadow-sm py-4   bg-gradient-to-r from-slate-50 to-sky-100 hover:border-2 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000" >
                         <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                            <img className='rounded-md' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686116416/webdesys/2_wmjhvy.png" alt="" />
+                            <img className='rounded-md' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707657745/WebDesys-Main%20Website/jadwnuvgj2oxf0q4hltp.webp" alt="" />
                         </div>
                         <p className="mb-2 font-bold text-md">Laravel</p>
                     </div>

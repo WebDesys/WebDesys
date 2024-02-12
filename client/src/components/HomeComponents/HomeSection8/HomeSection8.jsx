@@ -11,7 +11,7 @@ const HomeSection8 = () => {
 
                     <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-teal-accent-400" data-aos="zoom-in" data-aos-duration="1000">
                         {/* <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685433704/webdesys/star-icon_yurvwj.png" alt="" /> */}
-                        <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686174485/webdesys/hye_517_320px_1_obsbga.png" alt="" />
+                        <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707670317/WebDesys-Main%20Website/totdsirpqh4cyovhdigk.webp" alt="" />
                     </div>
 
                     <div className="max-w-xl mb-6" data-aos="zoom-in" data-aos-duration="1000">
@@ -52,7 +52,7 @@ const HomeSection8 = () => {
                     <img
                         //   className="object-cover w-full h-56 rounded shadow-lg sm:h-96"
                         className='ayush_img rounded shadow-[5px_5px_rgba(0,_98,_90,_0.4),_10px_10px_rgba(0,_98,_90,_0.3),_15px_15px_rgba(0,_98,_90,_0.2),_20px_20px_rgba(0,_98,_90,_0.1),_25px_25px_rgba(0,_98,_90,_0.05)]'
-                        src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685433347/webdesys/Ayush_Srivastava_khwndm.webp"
+                        src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707587097/WebDesys-Main%20Website/mfhbaegcfjh3kk7zalbv.webp"
                         alt=""
                     />
                 </div>

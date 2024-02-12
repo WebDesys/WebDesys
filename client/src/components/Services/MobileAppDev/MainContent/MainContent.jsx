@@ -11,7 +11,7 @@ const MainContent = () => {
                     <div className="flex flex-col justify-center md:pr-8 xl:pr-0 lg:max-w-lg">
 
                         <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-teal-accent-400" data-aos="zoom-in" data-aos-duration="1000">
-                            <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685433704/webdesys/star-icon_yurvwj.png" alt="" />
+                            <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707678417/WebDesys-Main%20Website/zkbmbi55gbfobgmzexuj.webp" alt="" />
                         </div>
 
                         <div className="max-w-xl mb-6" data-aos="zoom-in" data-aos-duration="1000">
@@ -39,7 +39,7 @@ const MainContent = () => {
                         <img
                             //   className="object-cover w-full h-56 rounded shadow-lg sm:h-96"
                             className='ayush_img rounded shadow-[5px_5px_rgba(0,_98,_90,_0.4),_10px_10px_rgba(0,_98,_90,_0.3),_15px_15px_rgba(0,_98,_90,_0.2),_20px_20px_rgba(0,_98,_90,_0.1),_25px_25px_rgba(0,_98,_90,_0.05)]'
-                            src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686079200/webdesys/Untitled_design_31_r4f2la.png"
+                            src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707730516/WebDesys-Main%20Website/qkvuqpptidyhmrpn6tcv.jpg"
                             alt=""
                         />
                     </div>

@@ -65,7 +65,7 @@ export const AboutPage = () => {
 
                             <div className="text-center p-2 border rounded shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(45,78,255,0.15)] hover:-translate-y-6 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000">
                                 <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                                    <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685362174/webdesys/Untitled_design_14_fxellg.png" alt="" />
+                                    <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707655839/WebDesys-Main%20Website/r59zivfaqyyutgvkqwg8.webp" alt="" className='max-h-[45px]'/>
                                 </div>
                                 <ScrollTrigger onEnter={() => setCounterOn1(true)} onExit={() => setCounterOn1(false)}>
                                     <h6 className="text-2xl font-bold text-deep-purple-accent-400">
@@ -77,7 +77,7 @@ export const AboutPage = () => {
 
                             <div className="text-center p-2 border rounded shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(45,78,255,0.15)] hover:-translate-y-6 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000">
                                 <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                                    <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685362332/webdesys/Untitled_design_15_fb430r.png" alt="" />
+                                    <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707654792/WebDesys-Main%20Website/nrebamxchh9zf1vcs2xz.webp" alt="" />
                                 </div>
                                 <ScrollTrigger onEnter={() => setCounterOn2(true)} onExit={() => setCounterOn2(false)}>
                                     <h6 className="text-2xl font-bold text-deep-purple-accent-400">
@@ -90,7 +90,7 @@ export const AboutPage = () => {
                             <div className="text-center p-2 border rounded  hover:-translate-y-6 hover:border-blue-700
                             shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(45,78,255,0.15)]" data-aos="zoom-in" data-aos-duration="1000" >
                                 <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                                    <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685362541/webdesys/Untitled_design_16_tq6iie.png" alt="" />
+                                    <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707654792/WebDesys-Main%20Website/ikaydermgntzwyhcji4o.webp" alt="" />
                                 </div>
                                 <ScrollTrigger onEnter={() => setCounterOn3(true)} onExit={() => setCounterOn3(false)}>
                                     <h6 className="text-2xl font-bold text-deep-purple-accent-400">
@@ -102,7 +102,7 @@ export const AboutPage = () => {
 
                             <div className="text-center p-2 border rounded shadow-[-10px_-10px_30px_4px_rgba(0,0,0,0.1),_10px_10px_30px_4px_rgba(45,78,255,0.15)] hover:-translate-y-6 hover:border-blue-700" data-aos="zoom-in" data-aos-duration="1000" >
                                 <div className="flex items-center justify-center w-10 h-10 mx-auto mb-3 rounded-full bg-teal-accent-400 sm:w-12 sm:h-12">
-                                    <img src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685362674/webdesys/Untitled_design_17_zoeykx.png" alt="" />
+                                    <img src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707655481/WebDesys-Main%20Website/t9moonbs9btzj9c6ayus.webp" alt="" className='max-w-[60px]'/>
                                 </div>
                                 <ScrollTrigger onEnter={() => setCounterOn4(true)} onExit={() => setCounterOn4(false)}>
                                     <h6 className="text-2xl font-bold text-deep-purple-accent-400">
@@ -117,7 +117,7 @@ export const AboutPage = () => {
 
                     <div className="lg:w-1/2 flex items-center justify-center" data-aos="zoom-in" data-aos-duration="2000">
                         <img className="rounded p-4"
-                            src="https://res.cloudinary.com/ddffeufbq/image/upload/v1697105175/webdesys/Untitled_design_ymkeac.webp" alt="" />
+                            src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566751/WebDesys-Main%20Website/Mission.webp" alt="" />
                     </div>
                 </div>
 
@@ -142,7 +142,7 @@ export const AboutPage = () => {
                             </p>
                         </div>
                         <div className="lg:w-1/2 flex items-center justify-center" data-aos="zoom-in" data-aos-duration="1000">
-                            <img className="object-cover h-40 md:h-60 xl:h-80" src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685697608/webdesys/Untitled_design_23_yeux17.png" alt="" />
+                            <img className="object-cover h-40 md:h-60 xl:h-80" src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707716028/WebDesys-Main%20Website/ia9k1qya28kscwi8lbgi.webp" alt="" />
                         </div>
                     </div>
                 </div>
@@ -167,7 +167,7 @@ export const AboutPage = () => {
                             </p>
                         </div>
                         <div className="lg:w-1/2 flex items-center justify-center" data-aos="zoom-in" data-aos-duration="1000">
-                            <img className="object-cover h-40 md:h-60 xl:h-80" src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685698724/webdesys/Untitled_design_24_ryd87n.png" alt="" />
+                            <img className="object-cover h-40 md:h-60 xl:h-80" src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566754/WebDesys-Main%20Website/Vision.png" alt="" />
                         </div>
                     </div>
                 </div>
@@ -192,7 +192,7 @@ export const AboutPage = () => {
                             </p>
                         </div>
                         <div className="lg:w-1/2 flex items-center justify-center" data-aos="zoom-in" data-aos-duration="1000">
-                            <img className="object-cover h-40 md:h-60 xl:h-80" src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685698984/webdesys/Untitled_design_25_whicq2.png" alt="" />
+                            <img className="object-cover h-40 md:h-60 xl:h-80" src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707568729/WebDesys-Main%20Website/Certified_teams.png" alt="" />
                         </div>
                     </div>
                 </div>
@@ -235,22 +235,22 @@ export const AboutPage = () => {
                 <div className="grid gap-5 mb-8 md:grid-cols-2 lg:grid-cols-3">
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100  border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
-                        <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                            <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685699838/webdesys/1_iog8ap.png" alt="" />
+                        <div className="flex items-center justify-center overflow-hidden w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
+                            <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707568729/WebDesys-Main%20Website/Development.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Learning & Development</h6>
                     </div>
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100 border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                            <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685699838/webdesys/2_jbbes7.png" alt="" />
+                            <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707671070/WebDesys-Main%20Website/qnkzofsdk1bhmxzodush.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Innovation & Quality First</h6>
                     </div>
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100 border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                            <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685699838/webdesys/3_j7hhnm.png" alt="" />
+                            <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707671504/WebDesys-Main%20Website/td07amvy6okymdjkh772.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Inclusive & Open-Culture</h6>
                     </div>
@@ -260,21 +260,21 @@ export const AboutPage = () => {
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100 border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                            <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685699838/webdesys/4_ai1x9j.png" alt="" />
+                            <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566750/WebDesys-Main%20Website/Latest_tech.png" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Work with Latest Technology</h6>
                     </div>
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100  border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                            <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685699838/webdesys/5_mtx5jx.png" alt="" />
+                            <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707671677/WebDesys-Main%20Website/cf1fcedygrdqjrghkqou.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Best & Global Opportunities</h6>
                     </div>
 
                     <div className="p-5 duration-300 transform bg-gradient-to-r from-slate-50 to-sky-100 border rounded shadow-sm sm:text-center flex flex-col justify-center items-center hover:border-blue-700 hover:border-2" data-aos="zoom-in" data-aos-duration="1000">
                         <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-white sm:mx-auto sm:w-24 sm:h-24">
-                            <img className='h-3/5' src="https://res.cloudinary.com/ddffeufbq/image/upload/v1685699838/webdesys/6_qs8ufu.png" alt="" />
+                            <img className='h-3/5' src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566486/WebDesys-Main%20Website/Feedback.webp" alt="" />
                         </div>
                         <h6 className="mb-2 font-semibold leading-5 hover:text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-purple-500 to-yellow-500 hover:font-bold">Constructive Feedback</h6>
                     </div>

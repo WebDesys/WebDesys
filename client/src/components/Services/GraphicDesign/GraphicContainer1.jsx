@@ -140,7 +140,7 @@ const GraphicContainer1 = () => {
               <div data-aos="zoom-in" data-aos-duration="1000">
                   <img
                       className="object-cover w-full h-56 rounded  sm:h-96"
-                      src="https://res.cloudinary.com/ddffeufbq/image/upload/v1686124126/webdesys/hye_1_miyfuh.png"
+                      src="https://res.cloudinary.com/dztkzhtla/image/upload/v1707566755/WebDesys-Main%20Website/Web_Design.jpg"
                       alt=""
                   />
               </div>
